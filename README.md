@@ -2,7 +2,6 @@
 
 InterviewOS helps you practise for technical interviews. Upload your resume, pick a role and a company style, and it runs a personalised mock interview that gets harder or easier depending on how well you answer. At the end you get a scored report and can ask follow-up questions about your own performance.
 
-**Live demo:** [add your Streamlit link here]
 
 ## How it works
 
